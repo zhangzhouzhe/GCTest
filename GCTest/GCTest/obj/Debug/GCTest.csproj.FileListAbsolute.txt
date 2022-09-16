@@ -1,0 +1,7 @@
+D:\MyProject\GCTest\GCTest\GCTest\bin\Debug\GCTest.exe.config
+D:\MyProject\GCTest\GCTest\GCTest\bin\Debug\GCTest.exe
+D:\MyProject\GCTest\GCTest\GCTest\bin\Debug\GCTest.pdb
+D:\MyProject\GCTest\GCTest\GCTest\obj\Debug\GCTest.csproj.AssemblyReference.cache
+D:\MyProject\GCTest\GCTest\GCTest\obj\Debug\GCTest.csproj.CoreCompileInputs.cache
+D:\MyProject\GCTest\GCTest\GCTest\obj\Debug\GCTest.exe
+D:\MyProject\GCTest\GCTest\GCTest\obj\Debug\GCTest.pdb
